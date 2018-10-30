@@ -1,14 +1,17 @@
 [
     {
         "title": "Moon - Quixotic",
+        "img": "images/cover1.jpg",
         "src": "audio/song1.mp3"
     },
     {
         "title": "Magna - Divide",
+        "img": "images/cover2.jpg",
         "src": "audio/song2.mp3"
     },
     {
         "title": "Magic Sword - In The Face of Evil",
+        "img": "images/cover3.jpg",
         "src": "audio/song3.mp3"
     }
 ]
