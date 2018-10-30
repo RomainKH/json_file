@@ -2,16 +2,16 @@
     {
         "title": "Moon - Quixotic",
         "img": "images/cover1.jpg",
-        "src": "https://github.com/RomainKH/json_file/blob/master/song1.mp3"
+        "src": "audio/song1.mp3"
     },
     {
         "title": "Magna - Divide",
         "img": "images/cover2.jpg",
-        "src": "https://github.com/RomainKH/json_file/blob/master/song2.mp3"
+        "src": "audio/song2.mp3"
     },
     {
         "title": "Magic Sword - In The Face of Evil",
         "img": "images/cover3.jpg",
-        "src": "https://github.com/RomainKH/json_file/blob/master/song3.mp3"
+        "src": "audio/song3.mp3"
     }
 ]
